@@ -24,9 +24,8 @@ A simple Todo App built with React.js that allows you to manage your tasks and s
 
 Follow these instructions to set up and run the project on your local machine.
 
-1. **Clone the repository**:
+1. Clone the repository: `git clone https://github.com/mohanrajmdev/Todo-app-react.git`
+2. Navigate to the project: `cd Todo-app-react`
+3. Install dependencies: `npm install`
+4. Launch the app: `npm start`
 
-   ```bash
-   git clone https://github.com/your-username/react-todo-app.git
-   cd react-todo-app
-    ```
