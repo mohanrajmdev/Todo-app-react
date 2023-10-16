@@ -1,9 +1,9 @@
-# Todo-app
+
 # React Todo App
 
 A simple Todo App built with React.js that allows you to manage your tasks and stay organized.
 
-![Todo App Screenshot](screenshot.png)
+![Todo App Screenshot](todo-app.png)
 
 ## Features
 
