@@ -1,5 +1,6 @@
 # React Todo App 📝
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mohanrajmdev_Todo-app-react)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_Todo-app-react)
 
 # 🔗 https://reactify-todo-app.netlify.app/ 
 
