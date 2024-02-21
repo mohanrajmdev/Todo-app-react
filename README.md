@@ -1,6 +1,9 @@
 # React Todo App 📝
 
+
 # 🔗 https://reactify-todo-app.netlify.app/ 
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_Todo-app-react)
 
 The "React Todo List with Local Storage" project is a web-based task management application developed using React, designed to empower users to organize their tasks effectively while utilizing local storage for data persistence. This open-source project is hosted on Netlify.
 
